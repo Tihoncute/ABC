@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.left {
+	width: 30%;
+	margin-left: 30px;
+	float: left;
+}
+.left form {
+	border: 1px solid;
+}
+.left form table tr>td {
+	width: 30%;
+	border: none;
+}
+.right {
+	width: 50%;
+	border: 1px solid;
+	float: left;
+	margin-left: 50px;
+	display: none;
+}
+.right .logo {
+	width: 30%;
+	float: left;
+	padding:30px;
+}
+.right .logoRight {
+	float: left;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.content {
+	clear: both;
+}
+.content h4 {
+	margin-left: 30px;
+}
+.content #table2 {
+	margin: auto;
+	padding: 10px;
+	width: 90%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+}
+.content #table2 tr th,td {
+	border: 1px solid;
+
+}
+.duoiTrai {
+	width: 50%;
+	float: left;
+	text-align: center;
+	height: 150px;
+}
+.duoiPhai {
+	width: 50%;
+	float: left;
+	text-align: center;
+	height: 150px;
+}
